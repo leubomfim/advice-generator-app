@@ -6,7 +6,8 @@
 <img src="https://user-images.githubusercontent.com/101958997/183263045-11cfa154-2c99-4290-8b84-a67dfb5af098.png">
 
 ## About the project :heartbeat:
-Este aplicativo foi desenvolvido para gerar conselhos aos usuários.
+
+Um excelente projeto para quem está aprendendo a usar APIs,
 
 Seus usuários devem ser capazes de:
 
