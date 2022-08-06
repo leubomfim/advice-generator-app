@@ -5,7 +5,7 @@
 <img width="100%" src="https://user-images.githubusercontent.com/101958997/183263011-2f5f0f15-bc88-47a9-b152-bd2ef7c35abe.png">
 <img src="https://user-images.githubusercontent.com/101958997/183263045-11cfa154-2c99-4290-8b84-a67dfb5af098.png">
 
-## About the project :heartbeat:
+## The challenge :heartbeat:
 
 Um excelente projeto para quem está aprendendo a usar APIs de terceiros. Nesse projeto você irá utilizar a <a href="https://api.adviceslip.com/">API advice Slip</a> para gerar os conselhos aleatórios,
 
@@ -15,7 +15,8 @@ Seus usuários devem ser capazes de:
 - Veja os estados de foco para todos os elementos interativos na página
 - Gere um novo conselho clicando no ícone de dados
 
-## Technologies
+## Technologies used
+
 - HTML5
 - CSS3
 - Javascript
