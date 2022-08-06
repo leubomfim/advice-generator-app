@@ -5,8 +5,14 @@
 <img width="100%" src="https://user-images.githubusercontent.com/101958997/183263011-2f5f0f15-bc88-47a9-b152-bd2ef7c35abe.png">
 <img src="https://user-images.githubusercontent.com/101958997/183263045-11cfa154-2c99-4290-8b84-a67dfb5af098.png">
 
-## Welcome :heartbeat:
+## About the project :heartbeat:
 Este aplicativo foi desenvolvido para gerar conselhos aos usuários.
+
+Seus usuários devem ser capazes de:
+
+- Visualize o layout ideal para o aplicativo, dependendo do tamanho da tela do dispositivo
+- Veja os estados de foco para todos os elementos interativos na página
+- Gere um novo conselho clicando no ícone de dados
 
 ## Technologies
 - HTML5
