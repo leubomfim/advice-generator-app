@@ -7,7 +7,7 @@
 
 ## About the project :heartbeat:
 
-Um excelente projeto para quem está aprendendo a usar APIs de terceiros. Nesse projeto vc irá utilizar a <a href="https://api.adviceslip.com/">API advice Slip</a>
+Um excelente projeto para quem está aprendendo a usar APIs de terceiros. Nesse projeto você irá utilizar a <a href="https://api.adviceslip.com/">API advice Slip</a> para gerar os conselhos aleatórios,
 
 Seus usuários devem ser capazes de:
 
